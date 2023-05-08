@@ -1,0 +1,1 @@
+-keep class com.danielefavaro.openweather.core.model.** { *; }
